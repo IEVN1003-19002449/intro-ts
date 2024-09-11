@@ -14,3 +14,14 @@ const alumno:Alumno={
 }
 
 console.log(alumno)
+
+let mascotas = ['perro','gato', 'perico'];
+mascotas[1]='nuevo gato';
+mascotas.push('leon');
+console.log(mascotas);
+
+let tem:(string|number)[]=[];
+tem.push(11);
+tem.push('hola');
+console.log(tem);
+
