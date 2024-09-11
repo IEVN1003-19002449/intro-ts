@@ -13,7 +13,7 @@ const tablet:Producto={
     precio: 7642
 }
 
-function calcularIva(productos:Producto[]):number {
+export function calcularIva(productos:Producto[]):number {
     let total=0;
     productos.forEach((producto)=>{
         total+=producto.precio;
