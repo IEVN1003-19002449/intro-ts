@@ -41,4 +41,4 @@ const dbz:string[]=['Goku', 'Majinbu', 'Babidy', 'Freezer'];
 console.log(`Personaje 1 ${dbz[0]}`);
 console.log(`Personaje 2 ${dbz[0]}`);
 console.log(`Personaje 3 ${dbz[0]}`);
-console.log(`Personaje 4`` ${dbz[0]}`);
+console.log(`Personaje 4 ${dbz[0]}`);
